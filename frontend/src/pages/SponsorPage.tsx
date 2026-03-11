@@ -10,8 +10,16 @@ type Sponsor = {
 };
 
 const initialData: Sponsor[] = [
-  {
+   {
     id: 1,
+    name: "Ethiopian Youth Federation",
+    contact: "Mr. Abiy Ahimed, +251911",
+    email: "lee@globalaid.org",
+    status: "Active",
+    notes: "Monthly donor",
+  },
+  {
+    id: 2,
     name: "Global Aid Foundation",
     contact: "Mr. Lee, 555-8888",
     email: "lee@globalaid.org",
@@ -19,7 +27,7 @@ const initialData: Sponsor[] = [
     notes: "Monthly donor",
   },
   {
-    id: 2,
+    id: 3,
     name: "Hope Trust",
     contact: "Ms. Patel, 555-7777",
     email: "patel@hopetrust.com",

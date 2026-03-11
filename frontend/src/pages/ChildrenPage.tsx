@@ -17,7 +17,7 @@ const initialData: Child[] = [
   {
     id: 1,
     firstName: "Amina",
-    lastName: "Khan",
+    lastName: "Musa",
     gender: "Female",
     dateOfBirth: "2018-05-12",
     admissionDate: "2020-09-01",
@@ -28,7 +28,7 @@ const initialData: Child[] = [
   {
     id: 2,
     firstName: "Samuel",
-    lastName: "Okoro",
+    lastName: "Girma",
     gender: "Male",
     dateOfBirth: "2019-02-20",
     admissionDate: "2021-01-15",
@@ -38,8 +38,8 @@ const initialData: Child[] = [
   },
   {
     id: 3,
-    firstName: "Lina",
-    lastName: "Fernandez",
+    firstName: "Chaltu",
+    lastName: "Gemechu",
     gender: "Female",
     dateOfBirth: "2017-11-03",
     admissionDate: "2019-06-30",
